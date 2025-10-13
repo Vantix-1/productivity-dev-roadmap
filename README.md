@@ -58,21 +58,24 @@ This repo follows a structured roadmap:
 
 ## 📂 Repository Layout
 productivity-dev-roadmap/
-├── week1/ # Python Foundations: Week 1
-│ ├── hello.py
-│ ├── variables.py
-│ ├── calculator.py
-│ ├── motivation_message.py
-│ ├── simple_timer.py
-│ ├── password_generator.py
-│ ├── task_cleaner.py
-│ └── todo_cli.py # CLI To-Do App v1
+├── week1/                     # Completed Week 1 scripts
+│   ├── hello.py
+│   ├── variables.py
+│   ├── calculator.py
+│   ├── motivation_message.py
+│   ├── simple_timer.py
+│   ├── password_generator.py
+│   ├── task_cleaner.py
+│   └── todo_cli.py
 │
-├── week2/ # Python Foundations: Week 2 (planned)
-├── week3/ # Python Foundations: Week 3 (planned)
-├── week4/ # Python Foundations: Week 4 (planned)
+├── week2/                     # Python Foundations: Week 2 (planned)
+│   ├── todo_cli_v2.py         # Enhanced To-Do App with priority & deadlines
+│   ├── daily_planner.py       # Daily Planner Generator
+│   ├── weekly_report.py       # Weekly Report Summary
+│   ├── productivity_tip_bot.py# Random Productivity Tip Bot
+│   └── habit_tracker.py       # Simple Habit Tracker
 │
-└── README.md # Project overview and progress
+└── README.md                   # Updated with Week 2 roadmap & progress
 
 
 ### 🔥 Next Target
