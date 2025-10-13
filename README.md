@@ -1,4 +1,7 @@
 ## Productivity Developer Roadmap 🚀
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github&logoColor=white)
+![Progress](https://img.shields.io/badge/Week%201-Completed-brightgreen)
 
 This repository documents my journey to becoming a **Productivity-Focused Software Developer**, following a 15-month roadmap that includes **Python, Web Development, Databases, Cloud/AWS, DevOps, Security, and SaaS development**.
 
