@@ -17,7 +17,7 @@ Learning the fundamentals of programming using **Python Crash Course, 3rd Editio
 | 5 | `simple_timer.py` | Focus timer using loops + time | ✅ |
 | 6 | `password_generator.py` | Secure random password generator | ✅ |
 | 7 | `task_cleaner.py` | File cleanup automation tool | ✅ |
-| 8 | `todo_cli.py` | **To-Do List App (Project 1)** | ⏳ Next |
+| 8 | `todo_cli.py` | **To-Do List App (Project 1)** | ✅ |
 
 ---
 
@@ -47,8 +47,7 @@ This repo follows a structured roadmap:
 
 ## 📂 Repository Layout
 productivity-dev-roadmap/
-│
-├── week1/
+├── week1/ # Python Foundations: Week 1
 │ ├── hello.py
 │ ├── variables.py
 │ ├── calculator.py
@@ -56,14 +55,38 @@ productivity-dev-roadmap/
 │ ├── simple_timer.py
 │ ├── password_generator.py
 │ ├── task_cleaner.py
-│ └── todo_cli.py (coming next)
+│ └── todo_cli.py # CLI To-Do App v1
 │
-├── week2/ (planned)
-├── week3/ (planned)
+├── week2/ # Python Foundations: Week 2 (planned)
+├── week3/ # Python Foundations: Week 3 (planned)
+├── week4/ # Python Foundations: Week 4 (planned)
 │
-└── README.md
+└── README.md # Project overview and progress
 
 
 ### 🔥 Next Target
 ✅ Finish **Week 1** strong by building your **first real command-line app**:  
 ➡ **`todo_cli.py`** — persistent To-Do List with CRUD features  
+
+> 📌 Note: Weeks 2–4 will expand on Python loops, dictionaries, functions, and automation scripts.
+
+---
+
+## 🌟 Goal
+Build **real productivity tools** while learning:
+✅ CLI tools  
+✅ Web apps  
+✅ APIs  
+✅ Cloud deployment  
+✅ Full SaaS app by Month 12  
+
+---
+
+### 🔥 Follow the Journey
+More progress coming every week. Motivation stays high. Consistency wins.
+
+---
+
+#### ✅ Author
+**Vance Frommer**  
+GitHub: [https://github.com/Vantix-1](https://github.com/Vantix-1)
