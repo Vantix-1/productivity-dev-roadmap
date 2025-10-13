@@ -46,8 +46,8 @@ This repo follows a structured roadmap:
 ---
 
 ## 📂 Repository Layout
----week1
----README
+- **week1**
+- **README**
 
 
 
