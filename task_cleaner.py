@@ -19,3 +19,4 @@ else:
     print("❌ Folder not found, please check path.")
 
 print(f"\n✅ Cleanup complete. {deleted_files} junk files removed.")
+
