@@ -1,8 +1,8 @@
-content = """# Week 1 Plan – Productivity Developer Roadmap (Python Phase)
+# Week 1 Plan – Productivity Developer Roadmap (Python Phase)
 
 ## 🎯 Goals
-- Set up Python workflow and GitHub repo structure
-- Complete **Chapters 1–3** from *Python Crash Course (3rd Edition)*
+- Set up Python workflow and GitHub repo structure #Completed Day 1 10/12/25
+- Complete **Chapters 1–3** from *Python Crash Course (3rd Edition)* 
 - Build 5 practice scripts + 1 mini project
 - Commit progress to GitHub daily
 
@@ -11,7 +11,7 @@ content = """# Week 1 Plan – Productivity Developer Roadmap (Python Phase)
 ## 📚 Reading Plan (Python Crash Course)
 | Day | Chapters | Topics |
 |-----|----------|--------|
-| Day 1–2 | Chapter 1 | Intro to Python, print, running scripts |
+| Day 1–2 | Chapter 1 | Intro to Python, print, running scripts | 
 | Day 3 | Chapter 2 | Variables, strings, numbers |
 | Day 4–5 | Chapter 3 | Lists and basic data structures |
 | Day 6–7 | Review | Exercises + project |
