@@ -57,7 +57,7 @@ This repo follows a structured roadmap:
 ---
 
 ## 📂 Repository Layout
-'''
+```
 productivity-dev-roadmap/
 ├── week1/                     # Completed Week 1 scripts
 │   ├── hello.py
@@ -77,7 +77,7 @@ productivity-dev-roadmap/
 │   └── habit_tracker.py       # Simple Habit Tracker
 │
 └── README.md                   # Updated with Week 2 roadmap & progress
-'''
+```
 
 ### 🔥 Next Target
 ✅ Finish **Week 1** strong by building your **first real command-line app**:  
