@@ -1,7 +1,7 @@
 ## Productivity Developer Roadmap 🚀
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github&logoColor=white)
-![Progress](https://img.shields.io/badge/Week%201-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Progress](https://img.shields.io/badge/Week%202-Planned-lightgrey)
 
 This repository documents my journey to becoming a **Productivity-Focused Software Developer**, following a 15-month roadmap that includes **Python, Web Development, Databases, Cloud/AWS, DevOps, Security, and SaaS development**.
 
@@ -22,8 +22,16 @@ Learning the fundamentals of programming using **Python Crash Course, 3rd Editio
 | 7 | `task_cleaner.py` | File cleanup automation tool | ✅ |
 | 8 | `todo_cli.py` | **To-Do List App (Project 1)** | ✅ |
 
----
+### Week 2 – Python Foundations: Loops, Dictionaries, and Functions (Planned)
+| Script | File | Description | Status |
+|--------|------|-------------|--------|
+| 9 | `todo_cli_v2.py` | Enhanced To-Do App: priority + deadlines | ⏳ Planned |
+| 10 | `daily_planner.py` | Daily Planner Generator using loops & dicts | ⏳ Planned |
+| 11 | `weekly_report.py` | Weekly Report Summary from task logs | ⏳ Planned |
+| 12 | `productivity_tip_bot.py` | Random Productivity Tip Bot | ⏳ Planned |
+| 13 | `habit_tracker.py` | Simple Habit Tracker with persistent storage | ⏳ Planned |
 
+---
 ## 📚 Roadmap Structure
 This repo follows a structured roadmap:
 
