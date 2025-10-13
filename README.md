@@ -46,8 +46,22 @@ This repo follows a structured roadmap:
 ---
 
 ## 📂 Repository Layout
-- **week1**
-- **README**
+productivity-dev-roadmap/
+│
+├── week1/
+│ ├── hello.py
+│ ├── variables.py
+│ ├── calculator.py
+│ ├── motivation_message.py
+│ ├── simple_timer.py
+│ ├── password_generator.py
+│ ├── task_cleaner.py
+│ └── todo_cli.py (coming next)
+│
+├── week2/ (planned)
+├── week3/ (planned)
+│
+└── README.md
 
 
 ### 🔥 Next Target
