@@ -8,3 +8,4 @@ for remaining in range(seconds, 0, -1):
     time.sleep(1)
 
 print("\n✅ Time’s up! Stay consistent and keep pushing forward.")
+
