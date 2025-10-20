@@ -1,7 +1,5 @@
 ## Productivity Developer Roadmap 🚀
 ![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-![Progress](https://img.shields.io/badge/Week%202-Planned-lightgrey)
 ![Python](https://img.shields.io/badge/Python-3.11-brightgreen?logo=python&logoColor=white)
 ![Progress](https://img.shields.io/badge/Progress-Live-brightgreen)
 
