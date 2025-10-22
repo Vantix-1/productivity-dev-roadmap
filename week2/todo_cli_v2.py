@@ -21,7 +21,22 @@ def list_tasks(tasks):
         return
     print("\n📋 Current Tasks:")
     for i, task in enumerate(tasks, start=1):
-        due = task.get("due_date", "N/A")
+        due_raw = task.get("due_date")
+        if due_raw:
+            try:
+                due_date = datetime.datetime.strptime(due_raw, "%Y-%m-%d").date()
+                today = datetime.date.today()
+                days_left = (due_date - today).days
+                if days_left < 0:
+                    due = f"{due_raw} (⏰ {abs(days_left)} days overdue)"
+                elif days_left == 0:
+                    due = f"{due_raw} (🚨 due today)"
+                else:
+                    due = f"{due_raw} ({days_left} days left)"
+            except ValueError:
+                due = f"{due_raw} (invalid date)"
+        else:
+            due = "N/A"
         priority = task.get("priority", "none").capitalize()
         status = "✅" if task.get("done") else "🔸"
         print(f"{i}. {status} {task['title']} | Priority: {priority} | Due: {due}")
@@ -60,6 +75,32 @@ def delete_task(tasks):
     except (ValueError, IndexError):
         print("⚠️ Invalid selection.")
 
+def search_tasks(tasks):
+    if not tasks:
+        print("No tasks available to search.")
+        return
+
+    print("\n🔎 Search/Filter Options:")
+    print("1. By keyword")
+    print("2. Filter By priority (low/medium/high)")
+    choice = input("Choose filter type: ").strip()
+
+    if choice == "1":
+        term = input("Enter keyword: ").lower()
+        filtered = [t for t in tasks if term in t["title"].lower()]
+    elif choice == "2":
+        level = input("Enter priority: ").lower()
+        filtered = [t for t in tasks if t.get("priority") == level]
+    else:
+        print("⚠️ Invalid choice.")
+        return
+
+    if not filtered:
+        print("No matches found.")
+    else:
+        list_tasks(filtered)
+
+
 def main():
     tasks = load_tasks()
     while True:
@@ -69,7 +110,8 @@ def main():
 2. Add Task
 3. Mark Task Done
 4. Delete Task
-5. Exit
+5. Search / Filter Tasks
+6. Exit
 """)
         choice = input("Select option: ").strip()
         if choice == "1":
@@ -81,6 +123,8 @@ def main():
         elif choice == "4":
             delete_task(tasks)
         elif choice == "5":
+            search_tasks(tasks)
+        elif choice == "6":
             print("👋 Exiting...")
             break
         else:
