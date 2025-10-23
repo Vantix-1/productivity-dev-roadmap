@@ -103,6 +103,7 @@ productivity-dev-roadmap/
 
 ## 🌟 Goal
 Build **real productivity tools** while mastering full-stack development:
+
 ✅ CLI Tools • ✅ Automation • ✅ File I/O • ✅ APIs • ✅ Web Apps • ✅ Cloud Deployment  
 
 Final goal → Deploy a **personal productivity SaaS platform** by **Month 12**.
