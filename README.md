@@ -8,7 +8,10 @@ This repository documents my journey to becoming a **Productivity-Focused Softwa
 ---
 
 ## ✅ Current Phase: Month 1 – Python Foundations
-Learning the fundamentals of programming using **Python Crash Course, 3rd Edition (2023)** and building real tools along the way.
+Learning the fundamentals of programming using **Python Crash Course, 3rd Edition (2023)** and building real tools along the way.  
+📘 Full code practice available in companion repo → [Vantix-1/python_work](https://github.com/Vantix-1/python_work)
+
+---
 
 ### ✅ Week 1 Progress – Python Basics + CLI Utilities
 | Script | File | Description | Status |
@@ -22,16 +25,19 @@ Learning the fundamentals of programming using **Python Crash Course, 3rd Editio
 | 7 | `task_cleaner.py` | File cleanup automation tool | ✅ |
 | 8 | `todo_cli.py` | **To-Do List App (Project 1)** | ✅ |
 
-### Week 2 – Python Foundations: Loops, Dictionaries, and Functions (Planned)
+---
+
+### ✅ Week 2 Progress – Loops, Dictionaries, and Functions
 | Script | File | Description | Status |
 |--------|------|-------------|--------|
 | 9 | `todo_cli_v2.py` | Enhanced To-Do App: priority + deadlines | ✅ |
-| 10 | `daily_planner.py` | Daily Planner Generator using loops & dicts | ⏳ Planned |
+| 10 | `daily_planner.py` | Daily Planner Generator using loops & dicts | 🔄 In Progress |
 | 11 | `weekly_report.py` | Weekly Report Summary from task logs | ⏳ Planned |
 | 12 | `productivity_tip_bot.py` | Random Productivity Tip Bot | ⏳ Planned |
 | 13 | `habit_tracker.py` | Simple Habit Tracker with persistent storage | ⏳ Planned |
 
 ---
+
 ## 📚 Roadmap Structure
 This repo follows a structured roadmap:
 
@@ -48,7 +54,7 @@ This repo follows a structured roadmap:
 
 ## 🛠️ Tech Stack
 - **Languages:** Python (starting), JavaScript (later)
-- **Backend:** Flask/FastAPI/Django (coming soon)
+- **Backend:** Flask • FastAPI • Django *(coming soon)*
 - **Database:** PostgreSQL/MySQL + SQLAlchemy
 - **Cloud/DevOps:** AWS • Docker • CI/CD
 - **Security:** Authentication • JWT • OAuth2
@@ -57,50 +63,55 @@ This repo follows a structured roadmap:
 ---
 
 ## 📂 Repository Layout
+
 ```
 productivity-dev-roadmap/
-├── week1/                     # Completed Week 1 scripts
-│   ├── hello.py
-│   ├── variables.py
-│   ├── calculator.py
-│   ├── motivation_message.py
-│   ├── simple_timer.py
-│   ├── password_generator.py
-│   ├── task_cleaner.py
-│   └── todo_cli.py
+├── week1/ # Completed Week 1 scripts
+│ ├── hello.py
+│ ├── variables.py
+│ ├── calculator.py
+│ ├── motivation_message.py
+│ ├── simple_timer.py
+│ ├── password_generator.py
+│ ├── task_cleaner.py
+│ └── todo_cli.py
 │
-├── week2/                     # Python Foundations: Week 2 (planned)
-│   ├── todo_cli_v2.py         # Enhanced To-Do App with priority & deadlines
-│   ├── daily_planner.py       # Daily Planner Generator
-│   ├── weekly_report.py       # Weekly Report Summary
-│   ├── productivity_tip_bot.py# Random Productivity Tip Bot
-│   └── habit_tracker.py       # Simple Habit Tracker
+├── week2/ # Python Foundations: Week 2 (active)
+│ ├── todo_cli_v2.py # Enhanced To-Do App (priority + deadlines)
+│ ├── daily_planner.py # Daily Planner Generator
+│ ├── weekly_report.py # Weekly Report Summary
+│ ├── productivity_tip_bot.py# Random Productivity Tip Bot
+│ └── habit_tracker.py # Simple Habit Tracker
 │
-└── README.md                   # Updated with Week 2 roadmap & progress
+├── python_work/ → Linked Repo
+
+│ └── crash_course_scripts/ # Scripts from "Python Crash Course" textbook
+│
+└── README.md # Fully integrated roadmap & progress
+
 ```
 
-### 🔥 Next Target
-✅ Finish **Week 1** strong by building your **first real command-line app**:  
-➡ **`todo_cli.py`** — persistent To-Do List with CRUD features  
-
-> 📌 Note: Weeks 2–4 will expand on Python loops, dictionaries, functions, and automation scripts.
+## 🔥 Progress Overview
+| Week | Focus | Status | Highlights |
+|------|--------|---------|------------|
+| 1 | Python Basics | ✅ Complete | CLI apps, loops, timers, file automation |
+| 2 | Loops & Functions | 🟩 Active | Enhanced To-Do app, planners, bots |
+| 3 | Data Handling | ⏳ Planned | Files, JSON, and data-driven mini tools |
+| 4 | Automation Scripts | ⏳ Pending | System tools, notifications, schedulers |
 
 ---
 
 ## 🌟 Goal
-Build **real productivity tools** and mini-projects while learning:  
-✅ CLI tools  
-✅ Automation scripts  
-✅ File I/O + persistent storage  
-✅ Web apps + databases  
-✅ Cloud deployment  
-✅ Full SaaS app by Month 12  
+Build **real productivity tools** while mastering full-stack development:
+✅ CLI Tools • ✅ Automation • ✅ File I/O • ✅ APIs • ✅ Web Apps • ✅ Cloud Deployment  
+
+Final goal → Deploy a **personal productivity SaaS platform** by **Month 12**.
 
 ---
 
-### 🔥 Follow the Journey
-More progress coming every week. Motivation stays high. Consistency wins.
-
+### ⚡ Follow the Journey
+Progress updates drop weekly — every script, tool, and milestone logged live.  
+Consistency > Speed. Craft > Cram.
 ---
 
 #### ✅ Author
