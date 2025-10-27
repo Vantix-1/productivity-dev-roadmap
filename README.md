@@ -31,9 +31,9 @@ Learning the fundamentals of programming using **Python Crash Course, 3rd Editio
 | Script | File | Description | Status |
 |--------|------|-------------|--------|
 | 9 | `todo_cli_v2.py` | Enhanced To-Do App: priority + deadlines | ✅ |
-| 10 | `daily_planner.py` | Daily Planner Generator using loops & dicts | 🔄 In Progress |
-| 11 | `weekly_report.py` | Weekly Report Summary from task logs | ⏳ Planned |
-| 12 | `productivity_tip_bot.py` | Random Productivity Tip Bot | ⏳ Planned |
+| 10 | `daily_planner.py` | Daily Planner Generator using loops & dicts | ✅ |
+| 11 | `weekly_report.py` | Weekly Report Summary from task logs | ✅ |
+| 12 | `productivity_tip_bot.py` | Random Productivity Tip Bot | 🔄 In Progress |
 | 13 | `habit_tracker.py` | Simple Habit Tracker with persistent storage | ⏳ Planned |
 
 ---

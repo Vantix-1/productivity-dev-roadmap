@@ -41,7 +41,7 @@ def create_daily_plan():
     if save == 'y':
         today = datetime.date.today().strftime("%Y-%m-%d")
         filename = f"daily_plan_{today}.txt"
-        with open(filename, "w") as f:
+        with open(filename, "w", encoding="utf-8") as f:
             f.write(f"=== Daily Planner ({today}) ===\n")
             for task in tasks:
                 f.write(f"{task['time_slot']} → {task['name']} [{task['priority']}]\n")
