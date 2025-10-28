@@ -33,8 +33,8 @@ Learning the fundamentals of programming using **Python Crash Course, 3rd Editio
 | 9 | `todo_cli_v2.py` | Enhanced To-Do App: priority + deadlines | ✅ |
 | 10 | `daily_planner.py` | Daily Planner Generator using loops & dicts | ✅ |
 | 11 | `weekly_report.py` | Weekly Report Summary from task logs | ✅ |
-| 12 | `productivity_tip_bot.py` | Random Productivity Tip Bot | 🔄 In Progress |
-| 13 | `habit_tracker.py` | Simple Habit Tracker with persistent storage | ⏳ Planned |
+| 12 | `productivity_tip_bot.py` | Random Productivity Tip Bot | ✅ |
+| 13 | `habit_tracker.py` | Simple Habit Tracker with persistent storage | 🔄 In Progress |
 
 ---
 
@@ -77,11 +77,11 @@ productivity-dev-roadmap/
 │ └── todo_cli.py
 │
 ├── week2/ # Python Foundations: Week 2 (active)
-│ ├── todo_cli_v2.py # Enhanced To-Do App (priority + deadlines)
-│ ├── daily_planner.py # Daily Planner Generator
-│ ├── weekly_report.py # Weekly Report Summary
-│ ├── productivity_tip_bot.py# Random Productivity Tip Bot
-│ └── habit_tracker.py # Simple Habit Tracker
+│ ├── todo_cli_v2.py # ✅ Enhanced To-Do App (priority + deadlines)
+│ ├── daily_planner.py # ✅ Daily Planner Generator
+│ ├── weekly_report.py # ✅ Weekly Report Summary
+│ ├── productivity_tip_bot.py # ✅ Random Productivity Tip Bot
+│ └── habit_tracker.py # ⏳ Simple Habit Tracker
 │
 ├── python_work/ → Linked Repo
 
