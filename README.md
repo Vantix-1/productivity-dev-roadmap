@@ -65,24 +65,24 @@ Learning Python fundamentals and automation scripting, including CLI tools, time
 
 ```
 productivity-dev-roadmap/
-├── week1/ # CLI & automation scripts
-│ ├── hello.py
-│ ├── variables.py
-│ ├── calculator.py
-│ ├── motivation_message.py
-│ ├── simple_timer.py
-│ ├── password_generator.py
-│ ├── task_cleaner.py
-│ └── todo_cli.py
-│
-├── week2/ # Python foundations + AI integration
-│ ├── todo_cli_v2.py
-│ ├── daily_planner.py
-│ ├── weekly_report.py
-│ ├── productivity_tip_bot.py
-│ └── habit_tracker.py
-│
-└── README.md # This roadmap & progress
+├── week1/                     # Python & CLI Automation Tools
+│   ├── hello.py                # Hello World / Python syntax practice
+│   ├── variables.py            # Core Python data types & variables
+│   ├── calculator.py           # Basic math automation script
+│   ├── motivation_message.py   # Generates daily motivational messages
+│   ├── simple_timer.py         # Focus timer automation
+│   ├── password_generator.py   # Secure random password generator
+│   ├── task_cleaner.py         # File and folder cleanup automation
+│   └── todo_cli.py             # CLI To-Do List App (basic CRUD)
+
+├── week2/                     # Python Automation + Early AI Integration
+│   ├── todo_cli_v2.py          # Enhanced To-Do App (priority & deadlines)
+│   ├── daily_planner.py        # Auto-generated daily planning tool
+│   ├── weekly_report.py        # Summarizes tasks & progress weekly
+│   ├── productivity_tip_bot.py # AI-powered Productivity Tip Bot
+│   └── habit_tracker.py        # Tracks habits with persistent storage
+
+└── README.md                   # AI-professional roadmap, progress, and goals
 
 ```
 
