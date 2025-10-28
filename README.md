@@ -4,7 +4,7 @@
 ![Progress](https://img.shields.io/badge/Progress-Live-brightblue?style=for-the-badge&logo=github)
 
 This repository documents my journey to becoming an **Automation & AI Developer**, building intelligent systems, automation tools, and cloud-hosted SaaS applications.  
-The roadmap combines **Python, APIs, Databases, Cloud/DevOps, Security, and AI integrations** with practical hands-on projects and certifications.
+The roadmap combines **Python, APIs, Databases, Cloud/DevOps, Security, and AI integrations** with hands-on projects and certifications.
 
 ---
 
@@ -17,9 +17,28 @@ I aim to create **real-world intelligent tools** that streamline tasks, integrat
 ## ✅ Current Phase: Python Foundations (Months 1–2)
 Learning Python fundamentals and automation scripting, including CLI tools, timers, planners, and early AI integration.
 
-**Progress Summary:**
-- Week 1: CLI scripts & automation tools ✅  
-- Week 2: Enhanced To-Do App, AI Productivity Tip Bot ✅ / Habit Tracker ⏳ Planned  
+**Progress Summary (Week 1–2):**
+
+#### Week 1 — Python & CLI Automation Tools
+| Script | Description | Status |
+|--------|-------------|--------|
+| `hello.py` | Python syntax & environment setup | ✅ |
+| `variables.py` | Core data types practice | ✅ |
+| `calculator.py` | CLI arithmetic automation | ✅ |
+| `motivation_message.py` | Daily motivation generator | ✅ |
+| `simple_timer.py` | Focus timer automation | ✅ |
+| `password_generator.py` | Secure password generator | ✅ |
+| `task_cleaner.py` | File/folder cleanup automation | ✅ |
+| `todo_cli.py` | CLI To-Do List (CRUD) | ✅ |
+
+#### Week 2 — Python Automation + Early AI Integration
+| Script | Description | Status |
+|--------|-------------|--------|
+| `todo_cli_v2.py` | Enhanced To-Do App (priority & deadlines) | ✅ |
+| `daily_planner.py` | Auto-generated daily planner | ✅ |
+| `weekly_report.py` | Weekly task reporting | ✅ |
+| `productivity_tip_bot.py` | AI-powered productivity tips | ✅ |
+| `habit_tracker.py` | Habit tracker with persistence | ✅ |
 
 ---
 
@@ -59,32 +78,32 @@ Learning Python fundamentals and automation scripting, including CLI tools, time
 
 ---
 
----
-
 ## 📂 Repository Layout
 
 ```
 productivity-dev-roadmap/
-├── week1/                     # Python & CLI Automation Tools
-│   ├── hello.py                # Hello World / Python syntax practice
-│   ├── variables.py            # Core Python data types & variables
-│   ├── calculator.py           # Basic math automation script
-│   ├── motivation_message.py   # Generates daily motivational messages
-│   ├── simple_timer.py         # Focus timer automation
-│   ├── password_generator.py   # Secure random password generator
-│   ├── task_cleaner.py         # File and folder cleanup automation
-│   └── todo_cli.py             # CLI To-Do List App (basic CRUD)
-
-├── week2/                     # Python Automation + Early AI Integration
-│   ├── todo_cli_v2.py          # Enhanced To-Do App (priority & deadlines)
-│   ├── daily_planner.py        # Auto-generated daily planning tool
-│   ├── weekly_report.py        # Summarizes tasks & progress weekly
-│   ├── productivity_tip_bot.py # AI-powered Productivity Tip Bot
-│   └── habit_tracker.py        # Tracks habits with persistent storage
-
-└── README.md                   # AI-professional roadmap, progress, and goals
+├── week1/ # Python & CLI Automation Tools
+│ ├── hello.py # Python syntax & environment setup
+│ ├── variables.py # Core Python data types & variables
+│ ├── calculator.py # Basic math automation script
+│ ├── motivation_message.py # Generates daily motivational messages
+│ ├── simple_timer.py # Focus timer automation
+│ ├── password_generator.py # Secure random password generator
+│ ├── task_cleaner.py # File and folder cleanup automation
+│ └── todo_cli.py # CLI To-Do List App (basic CRUD)
+│
+├── week2/ # Python Automation + Early AI Integration
+│ ├── todo_cli_v2.py # Enhanced To-Do App (priority & deadlines)
+│ ├── daily_planner.py # Auto-generated daily planner
+│ ├── weekly_report.py # Weekly task reporting
+│ ├── productivity_tip_bot.py # AI-powered productivity tips
+│ └── habit_tracker.py # Habit tracker with persistence
+│
+└── README.md # AI-professional roadmap, progress, and goals
 
 ```
+
+---
 
 ## 🚀 Key Projects
 - **CLI Automation Tools:** Timers, To-Do apps, file/task cleaners  
