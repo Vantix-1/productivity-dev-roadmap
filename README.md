@@ -30,8 +30,8 @@ Building strong foundations in Python with automation and early AI integration.
 | # | Script | Description | Focus | Status |
 |---|---------|--------------|--------|--------|
 | 9 | `todo_cli_v2.py` | Enhanced CLI app with priority/deadlines | Data automation | ✅ |
-| 10 | `daily_planner.py` | Auto-generates structured daily schedules | Workflow automation | ⏳ Planned |
-| 11 | `weekly_report.py` | Summarizes user activity for reports | Reporting automation | ⏳ Planned |
+| 10 | `daily_planner.py` | Auto-generates structured daily schedules | Workflow automation | ✅ |
+| 11 | `weekly_report.py` | Summarizes user activity for reports | Reporting automation | ✅|
 | 12 | `productivity_tip_bot.py` | AI-assisted daily productivity advisor | AI integration | ✅ |
 | 13 | `habit_tracker.py` | Tracks user habits + progress persistence | Data tracking | ⏳ Planned |
 
@@ -94,6 +94,39 @@ Progress updates drop weekly — every script, tool, and milestone logged live.
 Consistency > Speed. Craft > Cram.
 ---
 
-#### ✅ Author
-**Vance Frommer**  
-GitHub: [https://github.com/Vantix-1](https://github.com/Vantix-1)
+---
+
+## 🎯 Next Steps
+- Finish **Week 2** scripts with AI-assisted planning and data automation.  
+- Begin **Flask/FastAPI** projects in Phase 2 for interactive SaaS-style tools.  
+- Add **AI-driven automation** (OpenAI API, text generation, data insights).  
+- Start **AWS/Docker setup** by Month 5 for real deployment.  
+
+---
+
+## 🧾 Certifications Path
+| Area | Certification | Provider |
+|------|----------------|-----------|
+| Python | PCEP / PCAP | Python Institute |
+| Cloud | AWS Developer Associate | Amazon |
+| AI | TensorFlow Developer | Google |
+| Security | CompTIA Security+ | CompTIA |
+| DevOps | Docker Certified Associate | Docker |
+
+---
+
+## 💼 Career Outcome
+Become a **certified AI & Automation Developer** skilled in:  
+- Building AI-powered SaaS tools  
+- Automating workflows & data pipelines  
+- Deploying intelligent systems to the cloud  
+- Integrating OpenAI & ML APIs for real-world use  
+
+**Target Salary Range:** 💰 *$110K – $185K+ (U.S. average range)*  
+
+---
+
+**Author:** Vance Frommer  
+GitHub: [Vantix-1](https://github.com/Vantix-1)
+
+
