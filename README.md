@@ -64,28 +64,27 @@ Building strong foundations in Python with automation and early AI integration.
 
 ```
 productivity-dev-roadmap/
-├── week1/ # Completed Week 1 scripts
-│ ├── hello.py
-│ ├── variables.py
-│ ├── calculator.py
-│ ├── motivation_message.py
-│ ├── simple_timer.py
-│ ├── password_generator.py
-│ ├── task_cleaner.py
-│ └── todo_cli.py
+├── week1/                      # Completed Week 1 scripts
+│   ├── hello.py
+│   ├── variables.py
+│   ├── calculator.py
+│   ├── motivation_message.py
+│   ├── simple_timer.py
+│   ├── password_generator.py
+│   ├── task_cleaner.py
+│   └── todo_cli.py
 │
-├── week2/ # Python Foundations: Week 2 (active)
-│ ├── todo_cli_v2.py # ✅ Enhanced To-Do App (priority + deadlines)
-│ ├── daily_planner.py # ✅ Daily Planner Generator
-│ ├── weekly_report.py # ✅ Weekly Report Summary
-│ ├── productivity_tip_bot.py # ✅ Random Productivity Tip Bot
-│ └── habit_tracker.py # ⏳ Simple Habit Tracker
+├── week2/                      # Python Foundations: Week 2 (active)
+│   ├── todo_cli_v2.py         # ✅ Enhanced To-Do App (priority + deadlines)
+│   ├── daily_planner.py       # ✅ Daily Planner Generator
+│   ├── weekly_report.py       # ✅ Weekly Report Summary
+│   ├── productivity_tip_bot.py # ✅ Random Productivity Tip Bot
+│   └── habit_tracker.py       # ⏳ Simple Habit Tracker
 │
-├── python_work/ → Linked Repo
-
-│ └── crash_course_scripts/ # Scripts from "Python Crash Course" textbook
+├── python_work/                # 🔗 Linked Repository
+│   └── [Python Crash Course Scripts](https://github.com/Vantix-1/python_work)
 │
-└── README.md # Fully integrated roadmap & progress
+└── README.md                   # Fully integrated roadmap & progress
 
 ```
 ---
@@ -128,5 +127,3 @@ Become a **certified AI & Automation Developer** skilled in:
 
 **Author:** Vance Frommer  
 GitHub: [Vantix-1](https://github.com/Vantix-1)
-
-
